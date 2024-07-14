@@ -1,7 +1,7 @@
 ---
 layout: page_milo
-title: People
-permalink: /people/
+title: P
+permalink: /p/
 description: >
 nav: true
 nav_order: 1
