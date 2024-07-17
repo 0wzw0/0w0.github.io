@@ -9,4 +9,4 @@ display_categories: [Principal Investigator, Master Students, Undergraduate Stud
 horizontal: true
 ---
 
-<h6> All members in our AdvML-Group. </h6>
+<h6> 1members in our AdvML-Group. </h6>
